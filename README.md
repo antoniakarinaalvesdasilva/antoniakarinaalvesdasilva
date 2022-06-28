@@ -1,7 +1,7 @@
 ### Olá👋, eu sou a Antônia!
 
 - 🔭 Atualmente estou trabalhando como fotógrafa, editora de fotografias e designer gráfico
-- 🌱 Estudando HTML, CSS, JavaScript
+- 🌱 Estudando HTML, CSS, JavaScript e UI/UX
 
 ##
 
